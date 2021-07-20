@@ -1,0 +1,23 @@
+.contianer{
+    width: 100%;
+    height: auto;
+    overflow:scroll;
+    background-color: whitesmoke;
+} 
+.scroll {
+    margin:-1px;
+    padding:-1px;
+   
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;}
+
+.textarea{
+    white-space: break-spaces;
+
+}
+
+
+
